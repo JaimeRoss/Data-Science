@@ -6,5 +6,5 @@
 ## SOURCE OF DATA - https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
 <p align = "center"> 
-  <img src = "https://github.com/JaimeRoss/Data-Science/blob/main/images.PNG">
+  <img src = "https://github.com/JaimeRoss/Data-Science/blob/main/images.png">
 </p>

@@ -17,11 +17,41 @@
 <p align = "center"> 
   <img src = "https://github.com/JaimeRoss/Data-Science/blob/main/1.PNG">
 </p>
-### Those who worked in the private sector had the highest count for strokes as well as the highest count for no stroke.
+### Those who worked in the private sector had the highest count for strokes as well as the highest count for no strokes.
 
 #### Smoker status VS stroke
 
 <p align = "center"> 
   <img src = "https://github.com/JaimeRoss/Data-Science/blob/main/2.PNG">
 </p>
-### Those that have never smoked have the highest count for no stroke as well as the highest count for stroke.
+### Those who have never smoked have the highest count for no stroke as well as the highest count for stroke.
+
+# Model Metrics:
+
+Train
+               precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00      3645
+           1       1.00      1.00      1.00       187
+
+    accuracy                           1.00      3832
+   macro avg       1.00      1.00      1.00      3832
+weighted avg       1.00      1.00      1.00      3832
+
+Test
+               precision    recall  f1-score   support
+
+           0       0.96      0.96      0.96      1216
+           1       0.17      0.16      0.17        62
+
+    accuracy                           0.92      1278
+   macro avg       0.56      0.56      0.56      1278
+weighted avg       0.92      0.92      0.92      1278
+
+
+
+# Description of model:
+##
+
+# Summary:
+##

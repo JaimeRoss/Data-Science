@@ -17,10 +17,11 @@
 <p align = "center"> 
   <img src = "https://github.com/JaimeRoss/Data-Science/blob/main/1.PNG">
 </p>
-
+### Those who worked in the private sector had the highest count for strokes as well as the highest count for no stroke.
 
 #### Smoker status VS stroke
 
 <p align = "center"> 
   <img src = "https://github.com/JaimeRoss/Data-Science/blob/main/2.PNG">
 </p>
+### Those that have never smoked have the highest count for no stroke as well as the highest count for stroke.

@@ -17,3 +17,10 @@
 <p align = "center"> 
   <img src = "https://github.com/JaimeRoss/Data-Science/blob/main/1.png">
 </p>
+
+
+#### Smoker status VS stroke
+
+<p align = "center"> 
+  <img src = "https://github.com/JaimeRoss/Data-Science/blob/main/2.png">
+</p>

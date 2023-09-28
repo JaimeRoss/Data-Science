@@ -15,12 +15,12 @@
 #### Count plot for stroke VS work type
 
 <p align = "center"> 
-  <img src = "https://github.com/JaimeRoss/Data-Science/blob/main/1.png">
+  <img src = "https://github.com/JaimeRoss/Data-Science/blob/main/1.PNG">
 </p>
 
 
 #### Smoker status VS stroke
 
 <p align = "center"> 
-  <img src = "https://github.com/JaimeRoss/Data-Science/blob/main/2.png">
+  <img src = "https://github.com/JaimeRoss/Data-Science/blob/main/2.PNG">
 </p>

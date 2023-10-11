@@ -31,27 +31,27 @@
 Train
                precision    recall  f1-score   support
 
-           0       1.00      1.00      1.00      3645
-           1       1.00      1.00      1.00       187
+           0       0.99      0.75      0.85      3645
+           1       0.14      0.79      0.24       187
 
-    accuracy                           1.00      3832
-   macro avg       1.00      1.00      1.00      3832
-weighted avg       1.00      1.00      1.00      3832
+    accuracy                           0.75      3832
+   macro avg       0.56      0.77      0.54      3832
+weighted avg       0.94      0.75      0.82      3832
 
 Test
                precision    recall  f1-score   support
 
-           0       0.96      0.96      0.96      1216
-           1       0.17      0.16      0.17        62
+           0       0.98      0.74      0.84      1216
+           1       0.13      0.77      0.22        62
 
-    accuracy                           0.92      1278
-   macro avg       0.56      0.56      0.56      1278
-weighted avg       0.92      0.92      0.92      1278
+    accuracy                           0.74      1278
+   macro avg       0.56      0.76      0.53      1278
+weighted avg       0.94      0.74      0.81      1278
 
 
 
 # Description of model:
-##
+##The model chosen for this problem would be a logistic regression model. This model achieved an accuracy of 74%. The model still had quite a bit of false negatives, however it is less than all other models that were created.
 
 # Summary:
-##
+## The final model chosen was able to make predictions with an accuracy of 74%, however consideration should still be taken with patients due to the number of false negatives within the model.

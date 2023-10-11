@@ -51,7 +51,7 @@ weighted avg       0.94      0.74      0.81      1278
 
 
 # Description of model:
-##The model chosen for this problem would be a logistic regression model. This model achieved an accuracy of 74%. The model still had quite a bit of false negatives, however it is less than all other models that were created.
+## The model chosen for this problem would be a logistic regression model. This model achieved an accuracy of 74%. The model still had quite a bit of false negatives, however it is less than all other models that were created.
 
 # Summary:
-## The final model chosen was able to make predictions with an accuracy of 74%, however consideration should still be taken with patients due to the number of false negatives within the model.
+## The final model chosen was able to make predictions with an accuracy of 74%, however, consideration should still be taken with patients due to the number of false negatives within the model.
